@@ -1,0 +1,1066 @@
+2022-08-24 23:25:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-24 23:25:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-24 23:42:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-24 23:42:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-24 23:55:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-24 23:55:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:04:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:04:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:05:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:05:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:07:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:07:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:17:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:17:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:18:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:19:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:19:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:24:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:24:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:25:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:25:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:40:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:40:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:42:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:42:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:43:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:43:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:44:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:44:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:44:07 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:44:07 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:47:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:47:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 00:48:21 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:48:21 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:54:00 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:54:00 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:55:38 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 00:55:38 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:00:17 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:00:17 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:13:14 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:13:14 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:14:56 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:14:56 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:17:35 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:17:35 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:21:00 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:21:00 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:21:35 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:21:35 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:22:49 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:22:49 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:23:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:23:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:25:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:25:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:25:20 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:25:20 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/user.jpg
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'user.jpg')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:25:32 Error: [MissingActionException] Action NewsController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'NewsController',
+  'action' => 'assets',
+)
+Request URL: /news/assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#2 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-25 01:25:32 Error: [MissingActionException] Action NewsController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'NewsController',
+  'action' => 'assets',
+)
+Request URL: /news/assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#2 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-25 01:26:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:26:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:28:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/user.jpg
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:28:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:28:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:30:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:31:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:40:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:40:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:46:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:46:04 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:46:09 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:47:13 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:47:29 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:47:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:54 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /home
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:56 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /home
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:57 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /home
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:47:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:24 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:48:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:46 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:48:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:48:54 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:48:59 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:02 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:49:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:13 Error: [NotFoundException] Invalid category
+Request URL: /categories/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:49:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:30 Error: [NotFoundException] Invalid news
+Request URL: /news/edit/assets/img/logo.png
+Stack Trace:
+#0 [internal function]: NewsController->edit('assets', 'img', 'logo.png')
+#1 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#2 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/site_cakephp2/vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(NewsController), Object(CakeRequest))
+#4 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-25 01:49:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:42 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-25 01:49:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/img/logo.png
+Stack Trace:
+#0 /var/www/site_cakephp2/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

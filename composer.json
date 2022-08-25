@@ -1,0 +1,17 @@
+{
+    "name": "ionews/site_cakephp2",
+    "autoload": {
+        "psr-4": {
+            "Ionews\\SiteCakephp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafaele Golfeto",
+            "email": "rafaelegolfeto@gmail.com"
+        }
+    ],
+    "require": {
+        "cakephp/cakephp": "2.x"
+    }
+}
